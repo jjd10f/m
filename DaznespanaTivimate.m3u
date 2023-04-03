@@ -1,0 +1,54 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
+
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN 1 GER" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2703.png" ,DAZN 1 DE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN 2 GER" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2704.png" ,DAZN 2 DE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"GxRPc+b+/pHNBfhQ4rWJ0A","kid":"gvjioX2sRMChj2YEeTScWQ"}],"type":"temporary"}
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
+
+#EXTINF:-1 tvg-id="LaLigaTV Bar HD" tvg-logo="https://futbar.com/logos/laliga_white_logo.png" group-title="|Sport",LaLiga TV BAR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"VD3dJBcJiC2MuxYsLBG5ZA","kid":"0uFfw52QUqC/Xt8XSYeF6g"}, {"kty":"oct","k":"VD3dJBcJiC2MuxYsLBG5ZA","kid":"0uFfw52QUqC/Xt8XSYeF6g"}, {"kty":"oct","k":"BriRsZUyEcgoa7MSrQXp5Q","kid":"4siMHOx4VHWrawWhxNFaeA"}, {"kty":"oct","k":"DQvy4ud5n/Jsi7grG+Z8ig","kid":"RDVDIBD0XdmWfc483hhmSw"} ],"type":"temporary" }
+https://tvup-live.secure.footprint.net/laligatv/laligatv.mpd
